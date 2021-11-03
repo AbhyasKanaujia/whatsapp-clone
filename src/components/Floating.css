@@ -1,0 +1,14 @@
+.floatingButton {
+  color: white;
+  background-color: #25d366;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 1rem;
+  position: absolute;
+  top: 85vh;
+  left: 85vw;
+}
